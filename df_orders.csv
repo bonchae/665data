@@ -1,0 +1,9 @@
+OrderID,Customer,Product,Amount
+1001,Alice,Laptop,1200
+1002,Bob,Phone,800
+1002,Bob,Phone,800
+1003,Charlie,Tablet,500
+1004,Diana,Laptop,1200
+1004,Diana,Laptop,1200
+1004,Diana,Laptop,1200
+1005,Eve,Phone,800
