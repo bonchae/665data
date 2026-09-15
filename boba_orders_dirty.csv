@@ -1,0 +1,44 @@
+order_id,store_id,drink,size,topping,price,quantity,customer_age,rating
+1001,3,Taro Milk Tea,S,Grass Jelly,4.75,1,24.0,3.0
+1002,3,Thai Tea,Large,Boba,5.75,2,18.0,3.0
+1003,1,  taro milk tea ,S,Boba,5.75,1,61.0,5.0
+1004,2,Classic Milk Tea,M,,6.5,1,26.0,5.0
+1005,2,Matcha Latte,S,Pudding,6.5,1,22.0,
+1006,2,Taro Milk Tea,largee,Grass Jelly,5.75,1,18.0,5.0
+1007,3,Taro Milk Tea,M,Boba,,1,56.0,5.0
+1008,2,MATCHA LATTE,S,Boba,4.5,3,30.0,4.0
+1009,1,Classic Milk Tea,S,Lychee Jelly,5.0,2,,4.0
+1010,1,Matcha Latte,med,Pudding,6.0,1,60.0,3.0
+1011,3,Thai Tea,S,Pudding,-5.0,2,40.0,4.0
+1012,3,Thai Tea,L,,6.0,1,19.0,4.0
+1013,1,Matcha Latte,M,Grass Jelly,4.5,0,52.0,4.0
+1014,1,thai tea,M,Lychee Jelly,6.0,2,25.0,4.0
+1015,1,Classic Milk Tea,small,Grass Jelly,6.0,2,43.0,5.0
+1016,2,Matcha Latte,S,Pudding,5.75,2,250.0,3.0
+1017,1,Classic Milk Tea,L,Pudding,6.5,3,43.0,
+1018,1,Brown Sugar Boba,M,Lychee Jelly,5.75,1,51.0,7.0
+1019,3,Thai Tea,S,Grass Jelly,6.5,3,37.0,3.0
+1020,2,Brown Sugar Boba,S,Lychee Jelly,,3,62.0,4.0
+1021,3,Classic Milk Tea,L,Boba,6.5,3,0.0,5.0
+1022,3,Brown sugar boba ,S,Grass Jelly,6.5,1,50.0,5.0
+1023,1,Mango Green Tea,l ,Lychee Jelly,4.5,1,39.0,4.0
+1024,1,Taro Milk Tea,S,Boba,4.5,3,47.0,3.0
+1025,3,Classic Milk Tea,S,Lychee Jelly,5.75,1,,5.0
+1026,3,Brown Sugar Boba,S,Pudding,6.0,1,41.0,0.0
+1027,2,Mango Green Tea,M,Boba,4.75,1,20.0,4.0
+1028,1,Mango Green Tea,L,,5.75,1,16.0,3.0
+1029,3,Thai Tea,S,Pudding,999.0,1,37.0,3.0
+1030,3,Classic Milk Tea,M,Lychee Jelly,4.75,2,24.0,5.0
+1031,3, CLASSIC MILK TEA,S,Lychee Jelly,6.5,2,28.0,3.0
+1032,1,Thai Tea,M,Grass Jelly,5.5,2,45.0,3.0
+1033,3,Thai Tea,L,Boba,4.5,2,62.0,4.0
+1034,1,Classic Milk Tea,LARGE,Pudding,5.75,2,24.0,5.0
+1035,1,Matcha Latte,M,Pudding,6.5,1,44.0,5.0
+1036,1,Taro Milk Tea,L,Boba,4.5,-2,26.0,5.0
+1037,2,Brown Sugar Boba,S,Lychee Jelly,4.5,1,40.0,3.0
+1038,2,Matcha Latte,M,Grass Jelly,5.5,3,62.0,5.0
+1039,3,Thai Tea,M,Pudding,4.75,1,29.0,3.0
+1040,3,Thai Tea,L,Boba,6.0,1,19.0,3.0
+1001,3,Taro Milk Tea,S,Grass Jelly,4.75,1,24.0,3.0
+1006,2,Taro Milk Tea,largee,Grass Jelly,5.75,1,18.0,5.0
+1019,3,Thai Tea,S,Grass Jelly,6.5,3,37.0,3.0
